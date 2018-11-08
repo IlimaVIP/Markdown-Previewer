@@ -1,32 +1,67 @@
-.App {
-  text-align: center;
+html,
+body {
+  width: 100vw;
+  font-family: Lato, sans-serif;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch;
+  height: 100%;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+blockquote {
+  color: #666;
+  margin: 0;
+  padding-left: 3em;
+  border-left: 0.5em #eee solid;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media (min-width: 1025px) {
+  .main_wrapper {
+    display: flex;
+    width: 95%;
+    margin: 20px auto;
   }
-  to {
-    transform: rotate(360deg);
+  .main_wrapper .editor_wrap {
+    width: 50%;
   }
+  .main_wrapper .editor_wrap .form-group {
+    margin: 20px;
+  }
+  .main_wrapper .editor_wrap textarea {
+    background: #424242;
+    height: 900px;
+    color: #fff;
+  }
+  .main_wrapper .preview_wrap {
+    width: 50%;
+  }
+  .main_wrapper .preview_wrap .title {
+    margin: 20px;
+  }
+  .main_wrapper .preview_wrap #preview {
+    margin: 0 20px;
+    color: #424242;
+  }
+}
+@media (max-width: 1025px) {
+  .main_wrapper {
+    margin: 40px 15px;
+  }
+  .main_wrapper .editor_wrap {
+    margin: 20px;
+  }
+  .main_wrapper .editor_wrap textarea {
+    background: #424242;
+    height: 500px;
+    color: #fff;
+  }
+  .main_wrapper .preview_wrap .title {
+    margin: 20px;
+  }
+  .main_wrapper .preview_wrap #preview {
+    margin: 0 20px;
+    color: #424242;
+  }
+}
+.title {
+  font-weight: bold;
 }
