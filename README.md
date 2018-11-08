@@ -2,7 +2,7 @@ This project I build with React, Please see my [Markdown-Previewer](https://ilim
 
 ## This is a FreeCodecamp challenge 
 
-# This page contains 8 user stories:
+#### This page contains 8 user stories:
 
 **User Story #1:** I can see a textarea element with a corresponding id="editor".
 
