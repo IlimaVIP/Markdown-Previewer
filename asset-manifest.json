@@ -1,14 +1,15 @@
 {
-  "main.css": "/Markdown-Previewer/static/css/main.ef859108.chunk.css",
-  "main.js": "/Markdown-Previewer/static/js/main.b81e2c58.chunk.js",
-  "main.js.map": "/Markdown-Previewer/static/js/main.b81e2c58.chunk.js.map",
-  "static/js/1.1a2fe23b.chunk.js": "/Markdown-Previewer/static/js/1.1a2fe23b.chunk.js",
-  "static/js/1.1a2fe23b.chunk.js.map": "/Markdown-Previewer/static/js/1.1a2fe23b.chunk.js.map",
+  "main.css": "/Markdown-Previewer/static/css/main.023fd830.chunk.css",
+  "main.js": "/Markdown-Previewer/static/js/main.5da12215.chunk.js",
+  "main.js.map": "/Markdown-Previewer/static/js/main.5da12215.chunk.js.map",
+  "static/css/1.70c780db.chunk.css": "/Markdown-Previewer/static/css/1.70c780db.chunk.css",
+  "static/js/1.3a76e7e1.chunk.js": "/Markdown-Previewer/static/js/1.3a76e7e1.chunk.js",
+  "static/js/1.3a76e7e1.chunk.js.map": "/Markdown-Previewer/static/js/1.3a76e7e1.chunk.js.map",
   "runtime~main.js": "/Markdown-Previewer/static/js/runtime~main.1ef1a603.js",
   "runtime~main.js.map": "/Markdown-Previewer/static/js/runtime~main.1ef1a603.js.map",
-  "static/media/logo.svg": "/Markdown-Previewer/static/media/logo.5d5d9eef.svg",
-  "static/css/main.ef859108.chunk.css.map": "/Markdown-Previewer/static/css/main.ef859108.chunk.css.map",
+  "static/css/main.023fd830.chunk.css.map": "/Markdown-Previewer/static/css/main.023fd830.chunk.css.map",
+  "static/css/1.70c780db.chunk.css.map": "/Markdown-Previewer/static/css/1.70c780db.chunk.css.map",
   "index.html": "/Markdown-Previewer/index.html",
-  "precache-manifest.9d1d8c91eb0972546958f90215ee9105.js": "/Markdown-Previewer/precache-manifest.9d1d8c91eb0972546958f90215ee9105.js",
+  "precache-manifest.ccf62d5f2ecc5e25bc4b4dfe94f7801b.js": "/Markdown-Previewer/precache-manifest.ccf62d5f2ecc5e25bc4b4dfe94f7801b.js",
   "service-worker.js": "/Markdown-Previewer/service-worker.js"
 }
