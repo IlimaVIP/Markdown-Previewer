@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/IlimaVIP/Markdown-Previewer.git/precache-manifest.0a4944eef6c7b847c5aef012016872f2.js"
+  "/Markdown-Previewer/precache-manifest.9d1d8c91eb0972546958f90215ee9105.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/IlimaVIP/Markdown-Previewer.git/index.html", {
+workbox.routing.registerNavigationRoute("/Markdown-Previewer/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

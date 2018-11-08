@@ -1,14 +1,14 @@
 {
-  "main.css": "/IlimaVIP/Markdown-Previewer.git/static/css/main.ef859108.chunk.css",
-  "main.js": "/IlimaVIP/Markdown-Previewer.git/static/js/main.7de98a51.chunk.js",
-  "main.js.map": "/IlimaVIP/Markdown-Previewer.git/static/js/main.7de98a51.chunk.js.map",
-  "static/js/1.1a2fe23b.chunk.js": "/IlimaVIP/Markdown-Previewer.git/static/js/1.1a2fe23b.chunk.js",
-  "static/js/1.1a2fe23b.chunk.js.map": "/IlimaVIP/Markdown-Previewer.git/static/js/1.1a2fe23b.chunk.js.map",
-  "runtime~main.js": "/IlimaVIP/Markdown-Previewer.git/static/js/runtime~main.432c7f56.js",
-  "runtime~main.js.map": "/IlimaVIP/Markdown-Previewer.git/static/js/runtime~main.432c7f56.js.map",
-  "static/media/logo.svg": "/IlimaVIP/Markdown-Previewer.git/static/media/logo.5d5d9eef.svg",
-  "static/css/main.ef859108.chunk.css.map": "/IlimaVIP/Markdown-Previewer.git/static/css/main.ef859108.chunk.css.map",
-  "index.html": "/IlimaVIP/Markdown-Previewer.git/index.html",
-  "precache-manifest.0a4944eef6c7b847c5aef012016872f2.js": "/IlimaVIP/Markdown-Previewer.git/precache-manifest.0a4944eef6c7b847c5aef012016872f2.js",
-  "service-worker.js": "/IlimaVIP/Markdown-Previewer.git/service-worker.js"
+  "main.css": "/Markdown-Previewer/static/css/main.ef859108.chunk.css",
+  "main.js": "/Markdown-Previewer/static/js/main.b81e2c58.chunk.js",
+  "main.js.map": "/Markdown-Previewer/static/js/main.b81e2c58.chunk.js.map",
+  "static/js/1.1a2fe23b.chunk.js": "/Markdown-Previewer/static/js/1.1a2fe23b.chunk.js",
+  "static/js/1.1a2fe23b.chunk.js.map": "/Markdown-Previewer/static/js/1.1a2fe23b.chunk.js.map",
+  "runtime~main.js": "/Markdown-Previewer/static/js/runtime~main.1ef1a603.js",
+  "runtime~main.js.map": "/Markdown-Previewer/static/js/runtime~main.1ef1a603.js.map",
+  "static/media/logo.svg": "/Markdown-Previewer/static/media/logo.5d5d9eef.svg",
+  "static/css/main.ef859108.chunk.css.map": "/Markdown-Previewer/static/css/main.ef859108.chunk.css.map",
+  "index.html": "/Markdown-Previewer/index.html",
+  "precache-manifest.9d1d8c91eb0972546958f90215ee9105.js": "/Markdown-Previewer/precache-manifest.9d1d8c91eb0972546958f90215ee9105.js",
+  "service-worker.js": "/Markdown-Previewer/service-worker.js"
 }
